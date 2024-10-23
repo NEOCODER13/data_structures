@@ -1,2 +1,2 @@
-# data_structures
-high school learning project
+# data_structures and algorithms
+high school learning project AP-CSA 
